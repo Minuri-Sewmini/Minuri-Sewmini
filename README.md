@@ -15,7 +15,7 @@
   <a href="https://linkedin.com/in/minuri-sewmini" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:minurisewmini11@gmal.com">
+  <a href="mailto:minurisewmini11@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Minuri-Sewmini" target="_blank">
@@ -36,15 +36,15 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Minuri-Sewmini&show_icons=true&theme=buefy&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minuri-Sewmini&layout=compact&theme=buefy&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Minuri-Sewmini&show_icons=true&theme=buefy&hide_border=true&count_private=false&cache_seconds=1800" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minuri-Sewmini&layout=compact&theme=buefy&hide_border=true&cache_seconds=1800" height="160" />
 </div>
 
 ---
 
 ## 🔥 GitHub Streak
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Minuri-Sewmini&theme=buefy&hide_border=true" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Minuri-Sewmini&theme=buefy&hide_border=true&cache_seconds=1800" alt="streak graph" />
 </div>
 
 ---
