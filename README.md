@@ -44,16 +44,6 @@
 </p>
 
 
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Minuri-Sewmini&theme=buefy&hide_border=true" />
-</p>
-
----
-
 <p align="center">
 ✨ Thanks for visiting my profile! Let’s connect and build something impactful together 🚀
 </p>
