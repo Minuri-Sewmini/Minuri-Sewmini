@@ -1,14 +1,14 @@
 <div align="center">
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Minuri+Sewmini;Undergraduate+at+SLIIT;Faculty+of+Computing" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Minuri+Sewmini;Undergraduate+at+SLIIT;Aspiring+Software+Engineer" alt="Typing SVG" />
 
 <h3>👩‍💻 Aspiring Software Engineer | Tech Explorer</h3>
 
 <p style="font-size:16px; max-width:600px;">
   Undergraduate at the <b>Faculty of Computing, SLIIT</b>.<br/>
   Passionate about building software that makes a difference and<br/>
-  solving real-world problems through clean code.
+  solving real-world problems through clean and efficient code.
 </p>
 
 <!-- Social Links -->
@@ -22,15 +22,18 @@
   <a href="https://github.com/Minuri-Sewmini" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <a href="https://minuri-sewmini.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </div>
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,html,css,js,react,nodejs,git,github,vscode&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,html,css,js,react,nodejs,mongodb,git,github,vscode,docker&theme=light"/>
 </div>
 
 ---
@@ -41,6 +44,8 @@
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Minuri-Sewmini&layout=compact&theme=buefy&hide_border=true&langs_count=6" height="160"/>
 </div>
 
+---
+
 ## 🔥 GitHub Streak
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Minuri-Sewmini&theme=buefy&hide_border=true" height="160"/>
@@ -49,5 +54,5 @@
 ---
 
 <p align="center">
-✨ Thanks for visiting my profile! Let’s build something amazing together 🚀
+✨ Thanks for visiting my profile! Let’s create something amazing together 🚀
 </p>
