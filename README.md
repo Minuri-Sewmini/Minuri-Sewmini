@@ -36,10 +36,12 @@
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Minuri-Sewmini&show_icons=true&theme=buefy&hide_border=true&include_all_commits=true&line_height=30" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minuri-Sewmini&layout=compact&theme=buefy&hide_border=true&langs_count=6" height="165" />
-</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Minuri-Sewmini&show_icons=true&theme=buefy&hide_border=true&include_all_commits=true&cache_seconds=86400" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minuri-Sewmini&layout=compact&theme=buefy&hide_border=true&langs_count=6&cache_seconds=86400" height="165" />
+</p>
+
 
 ---
 
