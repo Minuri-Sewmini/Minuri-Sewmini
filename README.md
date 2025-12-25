@@ -39,16 +39,17 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Minuri-Sewmini&show_icons=true&theme=buefy&hide_border=true&include_all_commits=true&cache_seconds=86400" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minuri-Sewmini&layout=compact&theme=buefy&hide_border=true&langs_count=6&cache_seconds=86400" height="165" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Minuri-Sewmini&show_icons=true&theme=buefy&hide_border=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Minuri-Sewmini&layout=compact&theme=buefy&hide_border=true" />
 </p>
+
 
 ---
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Minuri-Sewmini&theme=buefy&hide_border=true&cache_seconds=86400" />
+  <img src="https://streak-stats.demolab.com?user=Minuri-Sewmini&theme=buefy&hide_border=true" />
 </p>
 
 ---
