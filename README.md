@@ -41,11 +41,9 @@
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Minuri-Sewmini&layout=compact&theme=buefy&hide_border=true&langs_count=6" height="160"/>
 </div>
 
----
-
 ## 🔥 GitHub Streak
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Minuri-Sewmini&theme=buefy&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=Minuri-Sewmini&theme=buefy&hide_border=true" height="160"/>
 </div>
 
 ---
