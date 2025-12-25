@@ -12,7 +12,7 @@
 </p>
 
 <!-- Social Links -->
-<div>
+<p>
   <a href="https://linkedin.com/in/minuri-sewmini" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -22,16 +22,17 @@
   <a href="https://github.com/Minuri-Sewmini" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</div>
+</p>
 
 </div>
 
 ---
 
 ## 🛠️ Tech Stack
-<div align="center">
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=java,c,cpp,html,css,js,react,nodejs,androidstudio,git,github,vscode&theme=light" />
-</div>
+</p>
 
 ---
 
@@ -42,13 +43,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minuri-Sewmini&layout=compact&theme=buefy&hide_border=true&langs_count=6&cache_seconds=86400" height="165" />
 </p>
 
-
 ---
 
 ## 🔥 GitHub Streak
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Minuri-Sewmini&theme=buefy&hide_border=true" alt="streak graph" />
-</div>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Minuri-Sewmini&theme=buefy&hide_border=true&cache_seconds=86400" />
+</p>
 
 ---
 
