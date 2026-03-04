@@ -1,17 +1,18 @@
 <div align="center">
 
-<!-- Gradient Animated Typing Intro -->
-<h1>
-  <span style="background: linear-gradient(90deg, #2F80ED, #56CCF2); -webkit-background-clip: text; color: transparent;">
-    Hello, I'm Minuri Sewmini
-  </span>
-</h1>
-<p style="font-size: 18px; color: #333;">
-Undergraduate at <b>SLIIT</b> | Aspiring Software Engineer | Tech Explorer 🚀
+<!-- Animated Typing Intro -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=500&color=2F80ED&center=true&vCenter=true&width=600&lines=Hello,+I'm+Minuri+Sewmini;Undergraduate+at+SLIIT;Aspiring+Software+Engineer" alt="Typing SVG" />
+
+<h3>👩‍💻 Aspiring Software Engineer | Tech Explorer</h3>
+
+<p style="font-size: 16px; max-width: 650px; line-height: 1.5;">
+Hi! I’m <b>Minuri Sewmini</b>, a passionate undergraduate at the <b>Faculty of Computing, SLIIT</b>.<br/>
+I love building software that solves real-world problems and exploring new technologies.  
+When I’m not coding, I enjoy learning about AI, web development, and open-source projects. 🚀
 </p>
 
 <!-- Social Links -->
-<div style="margin-top: 15px;">
+<div style="margin-top: 10px;">
   <a href="https://linkedin.com/in/minuri-sewmini" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -26,21 +27,7 @@ Undergraduate at <b>SLIIT</b> | Aspiring Software Engineer | Tech Explorer 🚀
   </a>
 </div>
 
-<!-- About Me -->
-<p style="font-size: 16px; max-width: 650px; line-height: 1.6; margin-top: 20px;">
-Hi! I’m <b>Minuri Sewmini</b>, a passionate undergraduate at the <b>Faculty of Computing, SLIIT</b>.<br/>
-I love building software that solves real-world problems and exploring new technologies.  
-When I’m not coding, I enjoy learning about AI, web development, and open-source projects. 💻
-</p>
-
 </div>
-
----
-
-## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,html,css,js,react,nodejs,git,github,vscode&theme=light" width="350" />
-</p>
 
 
 ## 🔥 GitHub Streak
@@ -48,7 +35,8 @@ When I’m not coding, I enjoy learning about AI, web development, and open-sour
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Minuri-Sewmini&theme=buefy&hide_border=true" width="600" />
 </p>
 
+---
 
-<p align="center" style="font-size: 16px;">
-✨ Thanks for visiting my profile! Let’s create something amazing together. 💙
+<p align="center">
+✨ Thanks for visiting my profile! Let’s create something amazing together. 💻💙
 </p>
