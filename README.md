@@ -29,6 +29,14 @@ When I’m not coding, I enjoy learning about AI, web development, and open-sour
 
 </div>
 
+---
+
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,html,css,js,react,nodejs,git,github,vscode&theme=light" width="300" />
+</p>
+
+---
 
 ## 🔥 GitHub Streak
 <p align="center">
