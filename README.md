@@ -38,14 +38,6 @@ When I’m not coding, I enjoy learning about AI, web development, and open-sour
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Minuri-Sewmini&show_icons=true&theme=buefy&hide_border=true&count_private=false&include_all_commits=true&line_height=30" width="350" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minuri-Sewmini&layout=compact&theme=buefy&hide_border=true&langs_count=6" width="250" />
-</p>
-
----
-
 ## 🔥 GitHub Streak
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Minuri-Sewmini&theme=buefy&hide_border=true" width="600" />
