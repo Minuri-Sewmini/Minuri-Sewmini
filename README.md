@@ -22,6 +22,9 @@ When I’m not coding, I enjoy learning about AI, web development, and open-sour
   <a href="https://github.com/Minuri-Sewmini" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://minuri-sewmini.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
 </div>
 
 </div>
@@ -29,32 +32,24 @@ When I’m not coding, I enjoy learning about AI, web development, and open-sour
 ---
 
 ## 🛠️ Tech Stack
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,html,css,js,react,nodejs,git,github,vscode&theme=light" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,html,css,js,react,nodejs,git,github,vscode&theme=light" width="300" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Minuri-Sewmini&show_icons=true&theme=buefy&hide_border=true&count_private=false&include_all_commits=true&line_height=30" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minuri-Sewmini&layout=compact&theme=buefy&hide_border=true&langs_count=6" height="160" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Minuri-Sewmini&show_icons=true&theme=buefy&hide_border=true&count_private=false&include_all_commits=true&line_height=30" width="350" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minuri-Sewmini&layout=compact&theme=buefy&hide_border=true&langs_count=6" width="250" />
+</p>
 
 ---
 
 ## 🔥 GitHub Streak
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Minuri-Sewmini&theme=buefy&hide_border=true" alt="streak graph" />
-</div>
-
----
-
-## 💡 Fun Fact
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=light" alt="joke" width="300" />
-  <p style="font-size: 14px; margin-top: 5px;">I like to sprinkle a bit of humor while coding! 😄</p>
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Minuri-Sewmini&theme=buefy&hide_border=true" width="600" />
+</p>
 
 ---
 
