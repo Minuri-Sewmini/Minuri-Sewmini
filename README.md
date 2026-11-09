@@ -1,4 +1,4 @@
-# 💙 Hi, I'm Minuri Sewmini!
+# Hi, I'm Minuri Sewmini!!
 
 <div align="center">
 
@@ -17,6 +17,9 @@
 <a href="mailto:minurisewmini11@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+<a href="https://github.com/Minuri-Sewmini">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 <br/><br/>
 
@@ -28,33 +31,21 @@
 
 ## ✨ About Me
 
-```yaml
-name: Minuri Sewmini
-education: BSc (Hons) Information Technology
-university: Sri Lanka Institute of Information Technology
-role: Software Engineering Undergraduate
+I'm a passionate **Information Technology Undergraduate at SLIIT**, interested in software engineering, full-stack development, and building innovative digital solutions.
 
-interests:
-  - Full Stack Development
-  - Web Application Development
-  - Artificial Intelligence
-  - Problem Solving
+I enjoy turning ideas into functional applications, solving real-world problems through technology, and continuously improving my development skills.
 
-currently:
-  - Improving my development skills
-  - Exploring new technologies
-  - Building real-world projects
+- 🎓 BSc (Hons) in Information Technology
+- 💻 Interested in Full Stack Development
+- 🚀 Exploring modern technologies and software solutions
+- 🧠 Passionate about problem-solving and continuous learning
+- 🤝 Open to collaboration and new opportunities
 
-mindset: "Learn. Build. Improve. Repeat."
-```
-
-I'm an enthusiastic IT undergraduate passionate about building meaningful software solutions. I enjoy exploring new technologies, solving problems, and transforming creative ideas into practical applications.
-
-I'm always excited to learn, collaborate, and take on new challenges in the world of technology. 🚀
+> "Learn. Build. Improve. Repeat."
 
 ---
 
-## 💻 Tech Stack & Tools
+## 💻 My Tech Stack
 
 ### Programming Languages
 
@@ -71,10 +62,10 @@ I'm always excited to learn, collaborate, and take on new challenges in the worl
 ### Backend Development & Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,spring,mongodb,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,mysql&theme=dark" />
 </p>
 
-### Development Tools
+### Tools & Technologies
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,androidstudio&theme=dark" />
@@ -84,21 +75,92 @@ I'm always excited to learn, collaborate, and take on new challenges in the worl
 
 ## 🚀 Featured Projects
 
-I enjoy developing applications that solve real-world problems and improve user experiences.
+Here are some of the projects I've worked on, exploring different areas of software development and solving real-world problems.
 
-Explore my repositories to discover my latest projects, experiments, and development journey.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<div align="center">
+<h3 align="center">🎓 UniFound</h3>
 
-<a href="https://github.com/Minuri-Sewmini?tab=repositories">
-<img src="https://img.shields.io/badge/Explore%20My%20Projects-Visit%20Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+<p align="center">
+<img src="https://img.shields.io/badge/Full--Stack-Web%20Application-2563EB?style=flat-square"/>
+</p>
+
+A campus-focused Lost & Found platform designed to help students report lost belongings, discover found items, and recover their properties through a centralized system.
+
+**Highlights:**
+- Lost & Found management
+- User-friendly platform
+- Campus-focused solution
+- Secure item recovery workflow
+
+<p align="center">
+<a href="https://github.com/UniFound/UNIFOUND">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+</p>
 
-</div>
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🏫 Smart Campus System</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Software-Development-0EA5E9?style=flat-square"/>
+</p>
+
+A smart campus-oriented software project focused on improving campus-related processes through technology and digital solutions.
+
+**Highlights:**
+- Smart campus concept
+- Digital solutions
+- System development
+- Collaborative project experience
+
+<p align="center">
+<a href="https://github.com/SmartCampusSystem/Smart-Campus-System">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+<h3 align="center">🐾 Central Pet Care</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/MERN-Full--Stack%20Application-16A34A?style=flat-square"/>
+</p>
+
+A full-stack pet management platform designed to connect pet adopters, veterinarians, trainers, and suppliers through a centralized system.
+
+**Highlights:**
+- Pet adoption management
+- Veterinary and pet services
+- Online pet product shop
+- User and admin management
+
+**Technologies:** MongoDB • Express.js • React • Node.js
+
+<p align="center">
+<a href="https://github.com/Central-Pet-Care/Central-Pet-Care-Frontend">
+<img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+</a>
+<a href="https://github.com/Central-Pet-Care/Central-Pet-Care-Backend">
+<img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+</a>
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Insights
 
 <div align="center">
 
@@ -116,25 +178,29 @@ Explore my repositories to discover my latest projects, experiments, and develop
 
 ## 🌐 Let's Connect!
 
-<div align="center">
+I'm always happy to connect with fellow developers, exchange ideas, collaborate on projects, and explore new opportunities.
 
-I'm always open to connecting with fellow developers, sharing ideas, and exploring opportunities.
+<div align="center">
 
 <a href="https://github.com/Minuri-Sewmini">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
 </a>
+
 <a href="https://linkedin.com/in/minuri-sewmini">
-<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
+
 <a href="https://minuri-sewmini.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-Explore-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
+<a href="mailto:minurisewmini11@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 <br/><br/>
 
-### 💭 A Little Reminder
-
-*"Great things are built one line of code at a time."*
+### 💙 Keep Coding. Keep Exploring. Keep Growing.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:38BDF8&height=120&section=footer" width="100%" />
 
